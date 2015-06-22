@@ -6,38 +6,38 @@ Torneio de Programacao
 
 Problema A: Matando Formigas
 
-Descrição
-Durante o recreio das aulas, Joãozinho percebeu que uma
+Descricao
+Durante o recreio das aulas, Joaozinho percebeu que uma
 grande quantidade de formigas transitava entre os restos de
 lanche dos alunos levando pequenas sobras para o
-formigueiro. Entediado que estava com as aulas, Joãozinho
-lembrou de suas aulas de Física e resolveu usar seus vastos
-conhecimentos científicos para reduzir a população de
-formigas a uma distância segura do formigueiro.
-Correu até o laboratório de Física a pegou algumas lentes
+formigueiro. Entediado que estava com as aulas, Joaozinho
+lembrou de suas aulas de Fisica e resolveu usar seus vastos
+conhecimentos cientificos para reduzir a populacao de
+formigas a uma distancia segura do formigueiro.
+Correu ate o laboratorio de Fisica a pegou algumas lentes
 convergentes que, segundo seu professor, poderiam atear
 fogo em uma folha de papel (ou queimar uma formiga)
 concentrado os raios solares no alvo desejado. Seria
-necessário apenas um dia de muito sol. Um dia como hoje!
-Ainda segundo seu professor, bastaria colocar a lente à uma
-distância do alvo aproximadamente igual ao foco da lente,
-com uma diferença máxima de uns 2 milímetros.
+necessario apenas um dia de muito sol. Um dia como hoje!
+Ainda segundo seu professor, bastaria colocar a lente a uma
+distancia do alvo aproximadamente igual ao foco da lente,
+com uma diferenca maxima de uns 2 milimetros.
 
 Tarefa
-Joãozinho, sempre pronto para a ciência, foi testar estas
-informações. Você consegue verificar quantas formigas
-(pobres formigas) Joãozinho conseguirá queimar dados o
-foco da lente usada por Joãozinho e a distância que as
-formigas estão deste, agora entusiasmado, cientista juvenil?
+Joaozinho, sempre pronto para a ciencia, foi testar estas
+informacoes. Voce consegue verificar quantas formigas
+(pobres formigas) Joaozinho conseguira queimar dados o
+foco da lente usada por Joaozinho e a distancia que as
+formigas estao deste, agora entusiasmado, cientista juvenil?
 Se todo esse conhecimento e entusiasmo fosse utilizado
-para o bem e não para o mal ...
+para o bem e nao para o mal ...
 
 Entrada
-A primeira linha da entrada contém um número inteiro “F”,
-que determina o foco da lente usada por Joãozinho. Nas “N”
-linhas seguintes, são dadas as distâncias “D” entre Joãozinho
-(e sua lente) e as formigas. Todas as distâncias são dadas em
-milímetros. A entrada de dados se encerra com 0 (zero). Veja
+A primeira linha da entrada contem um numero inteiro "F",
+que determina o foco da lente usada por Joaozinho. Nas "N"
+linhas seguintes, sao dadas as distancias "D" entre Joaozinho
+(e sua lente) e as formigas. Todas as distancias sao dadas em
+milimetros. A entrada de dados se encerra com 0 (zero). Veja
 o exemplo.
 
 Restricoes
@@ -45,14 +45,14 @@ Restricoes
 1 <= N <= 100
 1 <= D <= 2000
 
-Saída
-A saída consiste de uma única linha indicando a quantidade
-de formigas queimadas por Joãozinho.
+Saida
+A saida consiste de uma unica linha indicando a quantidade
+de formigas queimadas por Joaozinho.
 
 Exemplo
-No exemplo a seguir, Joãozinho usou uma lente de 10 mm
-tentando queimar 7 formigas que se moviam rápido em
-todas as direções. Apenas 5 delas ficaram a uma distância
+No exemplo a seguir, Joaozinho usou uma lente de 10 mm
+tentando queimar 7 formigas que se moviam rapido em
+todas as direcoes. Apenas 5 delas ficaram a uma distancia
 apropriada para serem pulverizadas.
 
 Exemplo de Entrada
@@ -67,7 +67,7 @@ Exemplo de Entrada
 11
 0
 
-Saída esperada para a Entrada
+Saida esperada para a Entrada
 
 5 formiga (s)
 
