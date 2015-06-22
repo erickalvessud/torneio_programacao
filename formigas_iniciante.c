@@ -71,6 +71,7 @@ Saida esperada para a Entrada
 
 5 formiga (s)
 
+
 */
 #define MIN_FOCO_LENTE 1
 #define MAX_FOCO_LENTE 1000
